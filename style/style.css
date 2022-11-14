@@ -95,6 +95,18 @@ color: #FFE600;
 /* express */
 /* footer */
 
+.footer {
+    background: #322E41;
+}
+.footer__info {
+    display: flex;
+    flex-direction: column;
+}
 
+.footer__info-logo {
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+}
 
 /* footer */
